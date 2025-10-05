@@ -2,6 +2,8 @@
 
 The **Hollow Knight: Silksong Trainer** is a precision-built enhancement software designed for players who want absolute mastery over Hornet’s journey. From speed tweaks to combat modifiers, it lets you fine-tune every gameplay aspect for deeper immersion and better control. Whether you’re exploring Pharloom or facing ruthless bosses, this trainer provides pro-level assistance without compromising game feel.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://knight-silksong-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
